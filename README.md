@@ -8,6 +8,7 @@
   - [LinkedIn](https://www.linkedin.com/in/teemuhynna/)
   - [Email](mailto:teemu.hynna@gmail.com)
 
+<!---
 ### Current tech stack
 <table>
   <tr>
@@ -27,6 +28,7 @@
     <td align="center">Stellar & Soroban</td>
   </tr>
 </table>
+-->
 
 ![Teolhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=teolhyn&show_icons=true&theme=tokyonight)
 
