@@ -4,9 +4,9 @@
 📖 I'm currently learning [Astro](https://astro.build/)</br>
 🔨 [Personal portfolio (WIP)](https://teolhyn.github.io/resume-pages/)</br>
 🌱 I'm always open for new opportunities in both the web2 and web3 worlds!</br>
-📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/teemuhynna/)
-  - [Email](mailto:teemu.hynna@gmail.com)
+### 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/teemuhynna/)</br>
+[Email](mailto:teemu.hynna@gmail.com)</br>
 
 <!---
 ### Current tech stack
