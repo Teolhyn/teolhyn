@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [Laina](https://www.laina-de.fi)</br>
 📖 I'm currently learning [Astro](https://astro.build/)</br>
-🔨 [Personal portfolio (WIP)](https://67ed23d10690ef0008122b26--poetic-druid-bdd8f1.netlify.app/)</br>
+🔨 [Personal portfolio](https://hynnaconsulting.fi/)</br>
 🌱 I'm always open for new opportunities in both the web2 and web3 worlds!</br>
 ### 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/teemuhynna/)</br>
