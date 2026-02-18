@@ -30,7 +30,7 @@
 </table>
 -->
 
-![Teolhyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=teolhyn&show_icons=true&theme=tokyonight)
+![Stats](./profile/stats.svg)
 
 
 
